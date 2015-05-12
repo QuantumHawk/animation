@@ -1,0 +1,92 @@
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\173534381.jpg
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\elitefon.ru-4911.jpg
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\animation.exe.config
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\animation.exe
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\animation.pdb
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\MainWindow.baml
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\MainWindow.g.cs
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\App.g.cs
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\animation_MarkupCompile.cache
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\animation.g.resources
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\animation.Properties.Resources.resources
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\animation.csproj.GenerateResource.Cache
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\animation.exe
+C:\Users\Василий\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\animation.pdb
+G:\wy\VS2013\animation\animation\bin\Debug\173534381.jpg
+G:\wy\VS2013\animation\animation\bin\Debug\elitefon.ru-4911.jpg
+G:\wy\VS2013\animation\animation\bin\Debug\animation.exe.config
+G:\wy\VS2013\animation\animation\bin\Debug\animation.exe
+G:\wy\VS2013\animation\animation\bin\Debug\animation.pdb
+G:\wy\VS2013\animation\animation\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\wy\VS2013\animation\animation\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\wy\VS2013\animation\animation\bin\Debug\System.Windows.Interactivity.dll
+G:\wy\VS2013\animation\animation\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\de\System.Windows.Interactivity.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\en\System.Windows.Interactivity.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\es\System.Windows.Interactivity.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\it\System.Windows.Interactivity.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+G:\wy\VS2013\animation\animation\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+G:\wy\VS2013\animation\animation\obj\Debug\MainWindow.baml
+G:\wy\VS2013\animation\animation\obj\Debug\MainWindow.g.cs
+G:\wy\VS2013\animation\animation\obj\Debug\App.g.cs
+G:\wy\VS2013\animation\animation\obj\Debug\animation_MarkupCompile.cache
+G:\wy\VS2013\animation\animation\obj\Debug\animation.g.resources
+G:\wy\VS2013\animation\animation\obj\Debug\animation.Properties.Resources.resources
+G:\wy\VS2013\animation\animation\obj\Debug\animation.csproj.GenerateResource.Cache
+G:\wy\VS2013\animation\animation\obj\Debug\animation.exe
+G:\wy\VS2013\animation\animation\obj\Debug\animation.pdb
